@@ -1,2 +1,2 @@
-# community-code-of-conduct
-The Python Software Foundation Community Code of Conduct
+# código-de-conduta-da-comunidade
+Código de Conduta da Comunidade Python Software Foundation
